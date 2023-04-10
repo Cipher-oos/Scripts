@@ -37,7 +37,7 @@ bash setup/android_build_env.sh
 echo -e "Done."
 
 echo -e "\nGit\n"
-git config --global user.name “Nishant Kumar”
-git config --global user.email “www.rajsonu13@gmail.com”
+git config --global user.name “Cipher-oos”
+git config --global user.email “ma7moudmo7med628@outlook.sa”
 git config --global credential.helper cache
 echo -e "Done."
